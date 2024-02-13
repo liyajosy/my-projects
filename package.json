@@ -2,7 +2,7 @@
   "name": "accordian",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://github.com/liyajosy/react-projects.git",
+  "homepage":"https://liyajosy.github.io/react-projects",
   "type": "module",
   "scripts": {
     "dev": "vite",
